@@ -1,4 +1,4 @@
-Country,CountryCode,IndicatorName,IndicatorCode,depth
+"Country,CountryCode,IndicatorName,IndicatorCode,depth"
 "Aruba","ABW","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",0
 "Africa Eastern and Southern","AFE","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",0
 "Afghanistan","AFG","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",327
